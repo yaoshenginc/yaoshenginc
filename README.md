@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ys-autos.com/image/logo.png" width="180" alt="耀笙國際汽車 Logo">
+</p>
+
 # 👋 耀笙國際汽車
 
 **高雄專業外匯車 / 中古車收購與銷售**
@@ -27,7 +31,7 @@
 - **在庫車輛** → [https://ys-autos.com/inventory](https://ys-autos.com/inventory)
 
 ### 📍 聯絡我們
-- **地址**：高雄市仁武區（詳細地址請至官網查看）
+- **地址**：高雄市仁武區鳳仁路 3-36 號（詳細請至官網查看）
 - **電話**：0979-226-338 / 07-7352855
 - **LINE**：點擊上方按鈕或 [https://lin.ee/mDzezrK](https://lin.ee/mDzezrK)
 
